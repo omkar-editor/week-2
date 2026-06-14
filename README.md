@@ -22,9 +22,10 @@ swiftdelivery/
 | View | Screenshots| 
 |----------|----------|
 | Home-Desktop | <img width="1261" height="601" alt="image" src="https://github.com/user-attachments/assets/b708edd1-be69-4d26-9caf-731afc01cfc7" />| 
-| Services-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/283d862a-b3b3-41e0-adb7-b23c61f1b6c8" />|
-| Pricing-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/25615a38-a672-4db1-a4a4-eacb3b7cef1a" />|
-| Contact-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/734731fe-ac5f-451a-a671-5a623a4384cd" />|
+| Services-Desktop |<img width="1272" height="547" alt="services" src="https://github.com/user-attachments/assets/052a4a5b-5cd1-41f7-8caa-fab949d738e5" />|
+| Pricing-Desktop |<img width="1271" height="568" alt="pricing " src="https://github.com/user-attachments/assets/3d6fef3f-39ff-4dc9-96e5-8c3d00bbf691" />|
+| Contact-Desktop |<img width="1271" height="570" alt="CONTACT" src="https://github.com/user-attachments/assets/1c468ec1-8299-45e6-9e6f-791b9b7af026" />|
+| Tracking- Desktop |<img width="1265" height="493" alt="tracking" src="https://github.com/user-attachments/assets/82e55bfc-0760-43b0-ab4a-a28fe7941a4b" />|
 | Home-Mobile    | <img width="540" height="1132" alt="swift delivery" src="https://github.com/user-attachments/assets/c08be533-49cf-46b9-9f31-f58693704065" /> |
 
 

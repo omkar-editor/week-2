@@ -22,6 +22,9 @@ swiftdelivery/
 | View | Screenshots| 
 |----------|----------|
 | Home-Desktop | <img width="1261" height="601" alt="image" src="https://github.com/user-attachments/assets/b708edd1-be69-4d26-9caf-731afc01cfc7" />| 
+| Services-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/283d862a-b3b3-41e0-adb7-b23c61f1b6c8" />|
+| Pricing-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/25615a38-a672-4db1-a4a4-eacb3b7cef1a" />|
+| Contact-Desktop |<img width="1272" height="547" alt="image" src="https://github.com/user-attachments/assets/734731fe-ac5f-451a-a671-5a623a4384cd" />|
 | Home-Mobile    | <img width="540" height="1132" alt="swift delivery" src="https://github.com/user-attachments/assets/c08be533-49cf-46b9-9f31-f58693704065" /> |
 
 
@@ -121,5 +124,6 @@ Modify `--spacing` variable or specific padding/margin values in each CSS file.
 - ✅ Performance optimized
 
 ---
-
-**Happy coding!** 🚀
+#Author
+-Omkar Sharma
+-Front-End Developer 
